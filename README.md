@@ -3,7 +3,7 @@ This is a basic HTML project of a fictional tech company built with pure HTML.
 This project contains multiple pages linked with each other.
 
 ## 1.Home Page of The project
-! [App Screenshot] (images/home-page.png)
+! [App Screenshot](./images/home-page.png)
 
 Home page contains 3 columns describing the three key features of the company.
 
